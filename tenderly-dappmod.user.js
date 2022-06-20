@@ -6,6 +6,8 @@
 // @author       @emilianobonassi
 // @match        https://etherscan.io/tx/*
 // @icon         https://tenderly.co/favicon.ico
+// @updateURL    https://github.com/emilianobonassi/tenderly-dappmod/raw/main/tenderly-dappmod.user.js
+// @downloadURL  https://github.com/emilianobonassi/tenderly-dappmod/raw/main/tenderly-dappmod.user.js
 // @grant        none
 // ==/UserScript==
 
